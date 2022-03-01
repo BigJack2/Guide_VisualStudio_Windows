@@ -80,6 +80,16 @@ Si tenemos un internet rápido o lento, podemos usar las siguientes opciones par
 
 ![image](https://user-images.githubusercontent.com/54609399/156062240-c1d2ba3c-21ba-4576-b58a-410cc1d90953.png)
 
+- Ahora vamos hacer otra validación de instalación para confirmar si el .NET quedo bien instalado durante el proceso del Visual Studio, para ello abrimos la consola de comando (en el caso de windows se recomienda la cmd siempre es mas recomendable trabajar sobre cmd que powershell).
+
+- Escribimos el comando 
+dotnet –version
+
+- Debería salir la versión 6 en adelante.
+
+
+![image](https://user-images.githubusercontent.com/54609399/156063763-65d98a2e-3ca3-416f-b05e-3e581ae2203e.png)
+
 17 - Damos click en la opción crear un nuevo proyecto.
 
 ![image](https://user-images.githubusercontent.com/54609399/156088037-144b2da1-d288-4a8d-b334-6d8a81f8a89c.png)
@@ -100,12 +110,5 @@ Si tenemos un internet rápido o lento, podemos usar las siguientes opciones par
 
 ![image](https://user-images.githubusercontent.com/54609399/156092070-c8d7e828-36e3-447f-baa8-32c32deaf219.png)
 
-
-
-17 
-
-![image](https://user-images.githubusercontent.com/54609399/156063763-65d98a2e-3ca3-416f-b05e-3e581ae2203e.png)
-
-18
-
+22 - Ya podemos cerrar todo, tenemos listo el Visual Studio.
 
