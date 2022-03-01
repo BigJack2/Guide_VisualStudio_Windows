@@ -58,26 +58,48 @@ Si tenemos un internet rápido o lento, podemos usar las siguientes opciones par
 
 12 - Al final nos veremos la siguiente interfaz, con esto confirmamos que el proceso de instalación quedo bien.
 
+![image](https://user-images.githubusercontent.com/54609399/156086617-6efcbb44-66de-4b21-ad47-77bc336b55b3.png)
 
-13
+13 - Nos saldrá la siguiente interfaz en la cual  podemos iniciar sesión con una cuenta de Microsoft. (Si la siguiente interfaz no sale, podemos cerrar la ventana del paso 12 e iniciar Visual Studio nuevamente).
 
 ![image](https://user-images.githubusercontent.com/54609399/156061332-8e39afcc-498c-49f6-a64c-c6f04840db9e.png)
 
-14 
+14 - Se recomienda iniciar sesion usando una cuenta de Microsoft (hotmail u outlook), ya que permitirá compartir configuraciones entre un computador y otro donde iniciemos sesión con Visual Studio, (esto es opcional en caso tal que no quieran solo dan click a las letras azules de abajo donde dice De momento , no quizás más tarde).
 
--
+- Si seleccionamos iniciar sesión nos abrirá la siguiente interfaz, donde procedemos a escribir nuestro correo Hotmail u Outlook y su respectiva contraseña.
 
 ![image](https://user-images.githubusercontent.com/54609399/156061724-22969dca-c150-4e06-85b0-b3a7ef34cd8f.png)
 
+- Si no iniciamos sesion y seleccionamos (De momento , no quizás más tarde)., pasaremos al paso 15
 
-15
+15  - En esta interfaz seleccionaremos las siguientes opciones, en caso tal que no salga esta ventana seguimos con el paso 16.
 
 ![image](https://user-images.githubusercontent.com/54609399/156062009-71d91b0b-fff2-418c-95dd-37f1db429e91.png)
 
-
-16
+16 - Al final nos quedará la siguiente interfaz, para confirmar que ya tenemos Visual Studio bien instalado.
 
 ![image](https://user-images.githubusercontent.com/54609399/156062240-c1d2ba3c-21ba-4576-b58a-410cc1d90953.png)
+
+17 - Damos click en la opción crear un nuevo proyecto.
+
+![image](https://user-images.githubusercontent.com/54609399/156088037-144b2da1-d288-4a8d-b334-6d8a81f8a89c.png)
+
+18 - Saldrá la siguiente interfaz y seleccionaremos esta opción, dando doble click en el icono de C#
+
+![image](https://user-images.githubusercontent.com/54609399/156091602-21767d0d-d91d-4214-8141-87008993014c.png)
+
+19 - Damos en siguiente sin seleccionar ningúna opcion ya que esto es solo un ejercicio de prueba.
+
+![image](https://user-images.githubusercontent.com/54609399/156091759-d594b0fc-6369-48e1-a110-3609f64c7c56.png)
+
+20 - Nos aseguramos que esté la opción de .NET 6 seleccionada y damos al botón crear.
+
+![image](https://user-images.githubusercontent.com/54609399/156091933-699fa5b8-ca11-4c45-800d-04a102ced9a5.png)
+
+21 - Nos debería salir la siguiente interfaz con el Visual Studio abierto.
+
+![image](https://user-images.githubusercontent.com/54609399/156092070-c8d7e828-36e3-447f-baa8-32c32deaf219.png)
+
 
 
 17 
